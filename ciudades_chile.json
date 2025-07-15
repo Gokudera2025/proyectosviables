@@ -1,0 +1,52 @@
+[
+    {
+        "ciudad": "Santiago",
+        "lat": -33.4489,
+        "lon": -70.6693
+    },
+    {
+        "ciudad": "Valparaíso",
+        "lat": -33.0472,
+        "lon": -71.6127
+    },
+    {
+        "ciudad": "Concepción",
+        "lat": -36.8201,
+        "lon": -73.0444
+    },
+    {
+        "ciudad": "La Serena",
+        "lat": -29.9045,
+        "lon": -71.2489
+    },
+    {
+        "ciudad": "Antofagasta",
+        "lat": -23.65,
+        "lon": -70.4
+    },
+    {
+        "ciudad": "Temuco",
+        "lat": -38.7359,
+        "lon": -72.5904
+    },
+    {
+        "ciudad": "Puerto Montt",
+        "lat": -41.4717,
+        "lon": -72.9396
+    },
+    {
+        "ciudad": "Iquique",
+        "lat": -20.2307,
+        "lon": -70.1357
+    },
+    {
+        "ciudad": "Rancagua",
+        "lat": -34.1708,
+        "lon": -70.7406
+    },
+    {
+        "ciudad": "Copiapó",
+        "lat": -27.3668,
+        "lon": -70.3322
+    }
+]
